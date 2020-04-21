@@ -14,6 +14,12 @@
       "title": "asdasd",
       "description": "asfasf",
       "id": 3
+    },
+    {
+      "title": "My stream",
+      "description": "By me",
+      "userId": "110607946574013829638",
+      "id": 4
     }
   ]
 }
