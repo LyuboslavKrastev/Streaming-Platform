@@ -22,10 +22,15 @@
       "id": 4
     },
     {
-      "title": "my stream as well",
+      "title": "my stream as well edited",
       "description": "Greetings",
-      "userId": "113144132581649898916",
       "id": 5
+    },
+    {
+      "title": "new stream",
+      "description": "patched edited",
+      "userId": "110607946574013829638",
+      "id": 6
     }
   ]
 }
